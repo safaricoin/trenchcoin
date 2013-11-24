@@ -84,6 +84,6 @@ Trenchcoin
 -------
 DOS prompt:
 
-	cd \litecoin\src
+	cd \trenchcoin\src
 	mingw32-make -f makefile.mingw
-	strip litecoind.exe
+	strip trenchcoind.exe
