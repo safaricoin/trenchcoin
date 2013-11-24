@@ -1,7 +1,7 @@
 Trenchcoin
 ================================
 
-http://www.litecoin.org
+http://www.funtrench.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2013-TODAY Trenchcoin Developers
