@@ -1,0 +1,9 @@
+Building Trenchcoin
+
+See doc/readme-qt.rst for instructions on building Trenchcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trenchcoin.
+
+See doc/build-*.txt for instructions on building trenchcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trenchcoin.
