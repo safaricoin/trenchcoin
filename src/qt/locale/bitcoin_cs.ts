@@ -275,8 +275,8 @@ Tento produkt zahrnuje programy vyvinuté OpenSSL Projektem pro použití v Open
     </message>
     <message>
         <location line="-56"/>
-        <source>Trenchcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Trenchcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých litecoinů malwarem, kterým se může počítač nakazit.</translation>
+        <source>Trenchcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your trenchcoins from being stolen by malware infecting your computer.</source>
+        <translation>Trenchcoin se teď ukončí, aby dokončil zašifrování. Pamatuj však, že pouhé zašifrování peněženky úplně nezabraňuje krádeži tvých trenchcoinů malwarem, kterým se může počítač nakazit.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -945,7 +945,7 @@ Adresa: %4
     <message>
         <location line="+9"/>
         <source>Whether to show Trenchcoin addresses in the transaction list or not.</source>
-        <translation>Zda ukazovat litecoinové adresy ve výpisu transakcí nebo ne.</translation>
+        <translation>Zda ukazovat trenchcoinové adresy ve výpisu transakcí nebo ne.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1069,8 +1069,8 @@ Adresa: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Nemůžu spustit litecoin: obsluha click-to-pay</translation>
+        <source>Cannot start trenchcoin: click-to-pay handler</source>
+        <translation>Nemůžu spustit trenchcoin: obsluha click-to-pay</translation>
     </message>
 </context>
 <context>
@@ -2197,8 +2197,8 @@ Adresa: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>Poslat příkaz pro -server nebo litecoind</translation>
+        <source>Send command to -server or trenchcoind</source>
+        <translation>Poslat příkaz pro -server nebo trenchcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,13 +2217,13 @@ Adresa: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Konfigurační soubor (výchozí: litecoin.conf)</translation>
+        <source>Specify configuration file (default: trenchcoin.conf)</source>
+        <translation>Konfigurační soubor (výchozí: trenchcoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>PID soubor (výchozí: litecoind.pid)</translation>
+        <source>Specify pid file (default: trenchcoind.pid)</source>
+        <translation>PID soubor (výchozí: trenchcoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2300,7 +2300,7 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=trenchcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2311,7 +2311,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Trenchcoin Alert&quot; admin@f
         <translation>%s, musíš nastavit rpcpassword v konfiguračním souboru:
 %s
 Je vhodné použít následující náhodné heslo:
-rpcuser=litecoinrpc
+rpcuser=trenchcoinrpc
 rpcpassword=%s
 (není potřeba si ho pamatovat)
 rpcuser a rpcpassword NESMÍ být stejné.

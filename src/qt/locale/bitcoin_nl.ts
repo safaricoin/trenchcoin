@@ -123,7 +123,7 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your Trenchcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Trenchcoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw litecoins verzendt.</translation>
+        <translation>Dit zijn uw Trenchcoinadressen om betalingen mee te verzenden. Check altijd het bedrag en het ontvangende adres voordat u uw trenchcoins verzendt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -275,8 +275,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-56"/>
-        <source>Trenchcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your litecoins from being stolen by malware infecting your computer.</source>
-        <translation>Trenchcoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw litecoins stelen.</translation>
+        <source>Trenchcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your trenchcoins from being stolen by malware infecting your computer.</source>
+        <translation>Trenchcoin zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw trenchcoins stelen.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1069,8 +1069,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start litecoin: click-to-pay handler</source>
-        <translation>Kan litecoin niet starten: click-to-pay handler</translation>
+        <source>Cannot start trenchcoin: click-to-pay handler</source>
+        <translation>Kan trenchcoin niet starten: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -2197,8 +2197,8 @@ Adres: %4
     </message>
     <message>
         <location line="-29"/>
-        <source>Send command to -server or litecoind</source>
-        <translation>Stuur commando naar -server of litecoind</translation>
+        <source>Send command to -server or trenchcoind</source>
+        <translation>Stuur commando naar -server of trenchcoind</translation>
     </message>
     <message>
         <location line="-23"/>
@@ -2217,14 +2217,14 @@ Adres: %4
     </message>
     <message>
         <location line="+24"/>
-        <source>Specify configuration file (default: litecoin.conf)</source>
-        <translation>Specificeer configuratiebestand (standaard: litecoin.conf)
+        <source>Specify configuration file (default: trenchcoin.conf)</source>
+        <translation>Specificeer configuratiebestand (standaard: trenchcoin.conf)
 </translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: litecoind.pid)</source>
-        <translation>Specificeer pid-bestand (standaard: litecoind.pid)
+        <source>Specify pid file (default: trenchcoind.pid)</source>
+        <translation>Specificeer pid-bestand (standaard: trenchcoind.pid)
 </translation>
     </message>
     <message>
@@ -2302,7 +2302,7 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=litecoinrpc
+rpcuser=trenchcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
@@ -2312,7 +2312,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Trenchcoin Alert&quot; admin@f
 </source>
         <translation>%s, u moet een RPC-wachtwoord instellen in het configuratiebestand: %s
 U wordt aangeraden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=litecoinrpc
+rpcuser=trenchcoinrpc
 rpcpassword=%s
 (u hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en wachtwoord mogen niet hetzelfde zijn.
